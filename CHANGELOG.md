@@ -16,7 +16,7 @@ None
 
 ### Bug Fixes
 
-* **feature4:** Fixed an url issue with feature4([b67737d3d2e](https://github.com/i15232/sandbox_repo/commit/b67737d3d2e))
+* **feature4:** Fixed an url issue with feature4([912ad747cf5](https://github.com/i15232/sandbox_repo/commit/912ad747cf5))
 
 
 <a name="2.0.0"></a>
