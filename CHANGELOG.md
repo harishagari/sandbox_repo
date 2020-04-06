@@ -1,3 +1,23 @@
+<a name="3.0.0"></a>
+# [2.0.1](https://github.com/i15232/sandbox_repo/compare/2.0.1...3.0.0) (2020-03-05)
+
+### Release Highlights
+
+Feature 5 support added
+
+
+### Features
+
+None
+
+### Performance Improvements
+
+None
+
+### Bug Fixes
+
+None
+
 <a name="2.0.1"></a>
 # [2.0.1](https://github.com/i15232/sandbox_repo/compare/2.0.0...2.0.1) (2020-03-04)
 
