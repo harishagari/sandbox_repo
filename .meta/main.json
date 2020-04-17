@@ -5,6 +5,9 @@
 		"metaDataVersion": "1.0.0",
 		"name": "com.microchip.citd.sandbox.project",
 		"version": "1.0.0",
+        
+        "displayName": "sandbox",
+        "projectName": "sandbox project",
 
 		"githubDeploy": {
 			"title": "Release",
