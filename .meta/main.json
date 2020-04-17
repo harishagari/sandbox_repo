@@ -1,0 +1,15 @@
+{
+	"metaDataVersion": "1.0.0",
+	"category": "com.microchip.citd.project",
+	"content": {
+		"metaDataVersion": "1.0.0",
+		"name": "com.microchip.citd.sandbox.project",
+		"version": "1.0.0",
+
+		"githubDeploy": {
+			"title": "Release",
+			"version": "2.0.1",
+			"description": "Release test v2.0.1 "
+		}
+	}
+}

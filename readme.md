@@ -1,4 +1,4 @@
-This is the initial version of the readme v0.0.1
+This is the initial version of the readme v1.0.0
 
 Added the feature 1 support.
 
