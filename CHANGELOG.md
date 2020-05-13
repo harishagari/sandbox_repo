@@ -3,7 +3,7 @@
 
 ### Release Highlights
 
-Feature 6 support added
+Feature 5 support added
 
 
 ### Features
